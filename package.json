@@ -1,0 +1,13 @@
+{
+  "name": "com.torrenzo.setup",
+  "displayName": "Custom Project Setup",
+  "version": "1.0.2",
+  "unity": "6000.3",
+  "description": "Updates the standard template with functions to add folder structure, include asset bundles,  .unitypackage's, package dependencies and moves/deletes some startup files.",
+  "keywords": [],
+  "category": "Scripting",
+  "author": {
+    "name": "torrenzo",
+    "email": "leroy.torrenzo@gmail.com"
+  }
+}
